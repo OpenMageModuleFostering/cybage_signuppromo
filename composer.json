@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Cybage_SignupPromo",
+    "type": "magento-module",
+    "license": "Open-Software-License",
+    "homepage": "",
+    "description": "The Sign-up Promotion plug-in provides the discount functionality for new sign-up customers. It generates random coupon codes for the customers.",
+    "authors": [
+    {
+        "name": "Cybage Software Pvt. Ltd.",
+        "email": "Support_Magento@cybage.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
