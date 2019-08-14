@@ -21,6 +21,6 @@
 $installer = $this;
 $installer->startSetup();
 $installer->run("
-    ALTER TABLE salesrule_coupon ADD COLUMN customer_id int(11) NULL;
+    ALTER TABLE {$this->getTable('salesrule/coupon')} ADD COLUMN customer_id int(11) NULL;
 ");
 $installer->endSetup();
