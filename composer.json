@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Cybage_SignupPromo",
+    "name": "openmage-module-fostering\/cybage_signuppromo",
     "type": "magento-module",
-    "license": "Open-Software-License",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "The Sign-up Promotion plug-in provides the discount functionality for new sign-up customers. It generates random coupon codes for the customers.",
     "authors": [

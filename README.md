@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 The Sign-up Promotion plug-in provides the discount functionality for new sign-up customers. It generates random coupon codes for the customers.
